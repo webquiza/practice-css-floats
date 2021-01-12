@@ -7,3 +7,8 @@ img {
   float: right;
   background-color: yellow;
 }
+
+.column {
+  width: 300px;
+  float: left;
+}
